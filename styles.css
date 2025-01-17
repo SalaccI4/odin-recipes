@@ -31,3 +31,27 @@
     color:cornflowerblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+#intro-title{
+    margin: auto auto 15px;
+    text-align: center;
+    background-color: rgb(163, 157, 189);
+    border: 10px solid red;
+    padding: 30px;
+    font-size: 50px;
+}
+
+#recipe-card{
+    width:600px;
+    margin: auto;
+}
+
+.recipes{
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    box-sizing: border-box;
+    background-color: aqua;
+    border: 10px solid blueviolet;
+    margin-bottom: 16px;
+}
